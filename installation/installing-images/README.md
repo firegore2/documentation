@@ -1,4 +1,4 @@
-# Installing operating system images
+# Instalación del sistema operativo en Raspberry pi
 
 This resource explains how to install a Raspberry Pi operating system image on an SD card. You will need another computer with an SD card reader to install the image.
 
